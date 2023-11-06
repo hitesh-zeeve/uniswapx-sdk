@@ -1,4 +1,4 @@
-import { ChainId, Currency } from "@uniswap/sdk-core";
+import { ChainId, Currency } from "@hitesh.sharma_/sdk-core";
 import { constants } from "ethers";
 
 export enum NativeAssets {

@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Price, TradeType } from "@uniswap/sdk-core";
+import { Currency, CurrencyAmount, Price, TradeType } from "@hitesh.sharma_/sdk-core";
 
 import { DutchOrder, DutchOrderInfo } from "../order";
 
